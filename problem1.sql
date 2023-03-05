@@ -1,0 +1,1 @@
+ INSERT INTO song (title, Artist) VALUES ('SongCry', 'Jay-z');
